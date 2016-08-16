@@ -1,0 +1,176 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title>mapa</title>
+  <meta name="description" content="">
+  <meta name="author" content="">
+  <script src="https://npmcdn.com/leaflet@1.0.0-rc.3/dist/leaflet.js"></script>
+  <link rel="stylesheet" href="https://npmcdn.com/leaflet@1.0.0-rc.3/dist/leaflet.css" />
+  <script   src="https://code.jquery.com/jquery-2.2.4.min.js"   integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="   crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="mapbox://styles/mapbox/streets-v9" />
+</head>
+
+<body>
+  <div id="map"></div>
+  <script src="app/dist/main.js"></script>
+  <script type="text/javascript">
+    var opts = {
+      mapOpts: {
+        id: 'map',
+        zoom: 5,
+        minZoom: 3,
+        maxZoom: 10,
+        center: [50.0598053, 14.3251985]
+      },
+      displayMaps: [
+        {
+          name: 'action-airtickets',
+          state: 'active',
+          layers: [
+            {
+              name: 'cities',
+              zoom: '7-10'
+            },
+            {
+              name: 'countries',
+              zoom: '5-6'
+            },
+            {
+              name: 'continents',
+              zoom: '4-3'
+            }
+          ]
+        }
+      ],
+      mapId: 'map',
+      dataURL: 'app/data/data.json',
+      tiles: 'https://api.mapbox.com/styles/v1/mapbox/light-v9/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoiZXhvc2xhdiIsImEiOiJjaXJ1bXNuYjIwMGY0aGttMXE5d2RlZGhwIn0.ZsqAvpO678QGVFAc6VMR2A',
+      accessToken: 'pk.eyJ1IjoiZXhvc2xhdiIsImEiOiJjaXJ1bXNuYjIwMGY0aGttMXE5d2RlZGhwIn0.ZsqAvpO678QGVFAc6VMR2A'
+    }
+    window.createMap(opts)
+  </script>
+
+  <style media="screen">
+    html, body, #map { margin: 0; padding: 0; height: 100%; }
+    .airport-label {
+      width: 7px !important;
+      height: 7px !important;
+      border: 2px solid #fff;
+      border-radius: 20em;
+      background: #21ABD9;
+      z-index: 9 !important;
+    }
+
+    .airport-label-lowest-price {
+      font-size: 25px;
+      display: block;
+      width: auto !important;
+      height: auto !important;
+      color: #fff;
+      white-space: nowrap;
+      z-index: 99 !important;
+    }
+
+    .airport-label-lowest-price:after {
+      content: '';
+      position: absolute;
+      bottom: -10px;
+      left: 0;
+      width: 0;
+      height: 0;
+      border-style: solid;
+      border-width: 10px 0px 0 20px;
+      border-color: #1894bd transparent transparent transparent;
+    }
+
+    .airport-label-lowest-price > div {
+      position: absolute;
+      top: auto;
+      bottom: 0;
+    }
+
+    .airport-label-lowest-price:hover {
+      z-index: 999 !important;
+    }
+
+    .airport-label-lowest-price:hover .name {
+      background: #000;
+    }
+
+    .airport-label-lowest-price:hover .currency,
+    .airport-label-lowest-price:hover .price {
+      background: #21ABD9;
+    }
+
+    .airport-label-lowest-price .name,
+    .airport-label-lowest-price .price,
+    .airport-label-lowest-price .currency {
+      display: block;
+      padding: 5px 10px;
+      font-weight: 700;
+      color: #fff;
+      text-align: left;
+      width: auto !important;
+      height: auto !important;
+      white-space: nowrap;
+    }
+
+    .airport-label-lowest-price .name {
+      font-size: 13px;
+      margin-bottom: 0;
+      background: rgba(70,70,80,.8);
+      text-transform: uppercase;
+    }
+
+    .airport-label-lowest-price .name .short {
+      display: none;
+    }
+
+    .airport-label-lowest-price .price {
+      font-size: 21px;
+      background: #21ABD9;
+    }
+
+    .airport-label-lowest-price .currency {
+      padding-bottom: 0;
+      font-size: 13px;
+      font-weight: 300;
+      background: #21ABD9;
+    }
+
+    .airport-label-lowest-price.small .price,
+    .airport-label-lowest-price.small .currency {
+      display: none;
+    }
+
+    .airport-label-lowest-price.small .name .long {
+      display: none;
+    }
+
+    .airport-label-lowest-price.small .name .short {
+      display: block;
+    }
+
+    .airport-label-lowest-price.small:after {
+      border-color: #484848 transparent transparent transparent;
+    }
+
+    .error #map {
+      display: none;
+    }
+
+    #error-page {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      z-index: 99;
+      text-align: center;
+    }
+  </style>
+</body>
+</html>
