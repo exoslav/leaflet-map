@@ -1,9 +1,11 @@
+export let removeLabels = (map, labels) => labels.map(label => map.removeLayer(label))
+
 export let minimalizeLabels = () => {
   const boxHeight = 94 // !!! vyska boxu
   const boxesStorage = $('.airport-label-lowest-price')
   const offsetStorage = []
 
-  boxesStorage.each((index, item) => $(item).removeClass('small'))
+  boxesStorage.removeClass('small')
 
   boxesStorage.map(boxItem => {
     const current = $(boxesStorage[boxItem])
@@ -50,4 +52,7 @@ export let minimalizeLabels = () => {
       }
     })
   })
+
+  boxesStorage.addClass('show')
+  // boxesStorage.each((index, item) => setTimeout(() => $(item).addClass('show'), 5 * index))
 }

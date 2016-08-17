@@ -1,7 +1,7 @@
 import { map } from '../map'
 import { createAirportLabel } from '../constants'
 import { handleClick } from './actions'
-import { renderCountryLabels } from '../labels/render'
+import { renderLabels } from '../labels/render'
 import { checkAirportPosition, removeEmptyCountries } from './helpers'
 import { minimalizeLabels } from '../labels/helpers'
 import { geographyStorage } from '../map/geography'
@@ -13,7 +13,7 @@ export let initializeAirports = (airports) => {
   sortAirports(airports)
   createAirports(airports)
 
-  renderCountryLabels(geographyStorage)
+  renderLabels(geographyStorage)
 
   minimalizeLabels()
 }

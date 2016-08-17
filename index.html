@@ -92,6 +92,19 @@
       bottom: 0;
     }
 
+    .airport-label-lowest-price,
+    .airport-label-lowest-price:after {
+      visibility: hidden;
+      transition: .2s all;
+      opacity: 0;
+    }
+
+    .airport-label-lowest-price.show,
+    .airport-label-lowest-price.show:after {
+      visibility: visible;;
+      opacity: 1;
+    }
+
     .airport-label-lowest-price:hover {
       z-index: 999 !important;
     }

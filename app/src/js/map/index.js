@@ -4,7 +4,8 @@ import { createGeographyGroups } from './geography'
 import { handleZoomEndEvent } from './actions'
 import { errors, printError } from '../errors'
 import { initializeAirports } from '../airports'
-import { minimalizeLabels } from '../labels/helpers'
+import { labels } from '../labels/render'
+import { removeLabels, minimalizeLabels } from '../labels/helpers'
 import { appState, setInitialAppState } from '../appState'
 
 export let map
@@ -46,9 +47,10 @@ export let initializeMap = (opts = {
 
 function setMap(opts) {
   map = L.map(opts.id, validateMapOpts(opts))
-
+  console.log(map)
   map.on('click', e => console.log(e.latlng))
-  map.on('zoomend', e => handleZoomEndEvent())
+  map.on('zoomstart', e => removeLabels(map, labels))
+  map.on('zoomend', e => handleZoomEndEvent(map))
 }
 
 function setTiles(tilesURL, accessToken) {
