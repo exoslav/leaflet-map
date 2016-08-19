@@ -28,6 +28,7 @@ module.exports = (function(env) {
       base: './app/main.js' // vstupni soubor pro webpacku
     },
     output: {
+      publicPath: '/app/dist/',
       path: './app/dist', // kam se buodu vysledne soubory ukladat
       filename: 'main.js' // nazev zkompilovaneho souboru
     },

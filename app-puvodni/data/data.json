@@ -1,0 +1,5203 @@
+{
+    "journeys": [
+        {
+            "to": "TLV",
+            "total": 5177,
+            "from": "PRG",
+            "airline-code": "LY",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/16639/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "IKA",
+            "total": 5430,
+            "from": "VIE",
+            "airline-code": "A3",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20659/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "TLV",
+            "total": 5710,
+            "from": "PRG",
+            "airline-code": "PS",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20412/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "DXB",
+            "total": 5986,
+            "from": "PRG",
+            "airline-code": "PS",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/17181/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "TBS",
+            "total": 6617,
+            "from": "PRG",
+            "airline-code": "TK",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/19344/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "DXB",
+            "total": 6816,
+            "from": "PRG",
+            "airline-code": "QS",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/18046/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "AQJ",
+            "total": 7321,
+            "from": "PRG",
+            "airline-code": "TK",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/19342/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "DXB",
+            "total": 7565,
+            "from": "OSR",
+            "airline-code": "QS",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20090/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "IKA",
+            "total": 7667,
+            "from": "PRG",
+            "airline-code": "PS",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/19062/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "AMM",
+            "total": 7696,
+            "from": "PRG",
+            "airline-code": "PS",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/19349/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "DXB",
+            "total": 7733,
+            "from": "PRG",
+            "airline-code": "FZ",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/18053/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "IKA",
+            "total": 7734,
+            "from": "PRG",
+            "airline-code": "A3",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20660/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "TSE",
+            "total": 8556,
+            "from": "PRG",
+            "airline-code": "PS",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/19348/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "ALA",
+            "total": 8909,
+            "from": "PRG",
+            "airline-code": "PS",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/19347/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "GYD",
+            "total": 9040,
+            "from": "PRG",
+            "airline-code": "PS",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/19525/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "BEY",
+            "total": 9231,
+            "from": "PRG",
+            "airline-code": "OK",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20559/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "AMM",
+            "total": 10182,
+            "from": "PRG",
+            "airline-code": "AZ",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/19919/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "DXB",
+            "total": 10663,
+            "from": "PRG",
+            "airline-code": "EK",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/17148/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "PEK",
+            "total": 10979,
+            "from": "PRG",
+            "airline-code": "AY",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/17212/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "CKG",
+            "total": 10979,
+            "from": "PRG",
+            "airline-code": "AY",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20592/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "ICN",
+            "total": 11010,
+            "from": "PRG",
+            "airline-code": "LO",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20658/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "COK",
+            "total": 11093,
+            "from": "VIE",
+            "airline-code": "AI",
+            "offer": "sa_asie_cz",
+            "type": "OPEN_JAW",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20053/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "TRV",
+            "total": 11098,
+            "from": "VIE",
+            "airline-code": "AI",
+            "offer": "sa_asie_cz",
+            "type": "OPEN_JAW",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20049/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "BLR",
+            "total": 11136,
+            "from": "VIE",
+            "airline-code": "AI",
+            "offer": "sa_asie_cz",
+            "type": "OPEN_JAW",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20052/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "ATQ",
+            "total": 11153,
+            "from": "VIE",
+            "airline-code": "AI",
+            "offer": "sa_asie_cz",
+            "type": "OPEN_JAW",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20054/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "DOH",
+            "total": 11228,
+            "from": "PRG",
+            "airline-code": "FZ",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/19749/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "BOM",
+            "total": 11237,
+            "from": "VIE",
+            "airline-code": "AI",
+            "offer": "sa_asie_cz",
+            "type": "OPEN_JAW",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20047/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "TAS",
+            "total": 11454,
+            "from": "PRG",
+            "airline-code": "TK",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/18886/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "KWI",
+            "total": 11712,
+            "from": "PRG",
+            "airline-code": "FZ",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20494/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "PEK",
+            "total": 11891,
+            "from": "PRG",
+            "airline-code": "KL",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20604/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "SGN",
+            "total": 12006,
+            "from": "PRG",
+            "airline-code": "MU",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20586/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "MCT",
+            "total": 12078,
+            "from": "PRG",
+            "airline-code": "FZ",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/19870/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "CMB",
+            "total": 12166,
+            "from": "PRG",
+            "airline-code": "JU",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20633/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "CMB",
+            "total": 12495,
+            "from": "PRG",
+            "airline-code": "KL",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20607/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "HAN",
+            "total": 12637,
+            "from": "PRG",
+            "airline-code": "TK",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/19547/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "HRI",
+            "total": 12724,
+            "from": "PRG",
+            "airline-code": "FZ",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20572/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "ICN",
+            "total": 12778,
+            "from": "PRG",
+            "airline-code": "MU",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20110/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "NRT",
+            "total": 12808,
+            "from": "PRG",
+            "airline-code": "MU",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20333/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "PEK",
+            "total": 12866,
+            "from": "VIE",
+            "airline-code": "CZ",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20132/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "MNL",
+            "total": 12938,
+            "from": "PRG",
+            "airline-code": "MU",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20105/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "DEL",
+            "total": 12957,
+            "from": "PRG",
+            "airline-code": "TK",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/18942/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "KUL",
+            "total": 13068,
+            "from": "PRG",
+            "airline-code": "MU",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20108/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "DOH",
+            "total": 13150,
+            "from": "PRG",
+            "airline-code": "EK",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/19128/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "BKK",
+            "total": 13190,
+            "from": "PRG",
+            "airline-code": "MU",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20583/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "PNH",
+            "total": 13260,
+            "from": "PRG",
+            "airline-code": "MU",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20112/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "SIN",
+            "total": 13269,
+            "from": "PRG",
+            "airline-code": "MU",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20109/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "PVG",
+            "total": 13279,
+            "from": "PRG",
+            "airline-code": "AY",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/17213/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "PVG",
+            "total": 13329,
+            "from": "PRG",
+            "airline-code": "OS",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20656/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "BOM",
+            "total": 13428,
+            "from": "PRG",
+            "airline-code": "FZ",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20492/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "BKK",
+            "total": 13555,
+            "from": "PRG",
+            "airline-code": "OS",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20654/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "KUL",
+            "total": 13808,
+            "from": "PRG",
+            "airline-code": "TK",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20313/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "SHA",
+            "total": 13823,
+            "from": "PRG",
+            "airline-code": "HU",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/19855/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "CAN",
+            "total": 13823,
+            "from": "PRG",
+            "airline-code": "HU",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/19856/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "MLE",
+            "total": 13828,
+            "from": "VIE",
+            "airline-code": "SU",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/18464/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "BKK",
+            "total": 13858,
+            "from": "VIE",
+            "airline-code": "BR",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/18863/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "PVG",
+            "total": 13880,
+            "from": "BRQ",
+            "airline-code": "LH",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20016/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "PEK",
+            "total": 13912,
+            "from": "PRG",
+            "airline-code": "SU",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20210/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "BOM",
+            "total": 13934,
+            "from": "PRG",
+            "airline-code": "TK",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/19819/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "PEK",
+            "total": 13957,
+            "from": "PRG",
+            "airline-code": "HU",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/19854/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "PVG",
+            "total": 14157,
+            "from": "PRG",
+            "airline-code": "LX",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20207/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "NRT",
+            "total": 14210,
+            "from": "PRG",
+            "airline-code": "SU",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20211/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "BOM",
+            "total": 14222,
+            "from": "PRG",
+            "airline-code": "EK",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/14454/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "PEK",
+            "total": 14289,
+            "from": "PRG",
+            "airline-code": "EK",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/14453/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "SGN",
+            "total": 14306,
+            "from": "PRG",
+            "airline-code": "TK",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20319/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "BKK",
+            "total": 14320,
+            "from": "PRG",
+            "airline-code": "TK",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/19549/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "HKG",
+            "total": 14322,
+            "from": "PRG",
+            "airline-code": "OS",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20657/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "BKK",
+            "total": 14330,
+            "from": "PRG",
+            "airline-code": "AY",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/17218/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "MLE",
+            "total": 14406,
+            "from": "PRG",
+            "airline-code": "FZ",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/19750/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "DEL",
+            "total": 14508,
+            "from": "PRG",
+            "airline-code": "EK",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/14452/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "HKG",
+            "total": 14537,
+            "from": "PRG",
+            "airline-code": "AF",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/19800/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "SLL",
+            "total": 14548,
+            "from": "PRG",
+            "airline-code": "FZ",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20491/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "BKK",
+            "total": 14690,
+            "from": "PRG",
+            "airline-code": "FZ",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20563/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "CMB",
+            "total": 14796,
+            "from": "VIE",
+            "airline-code": "QR",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20639/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "HKG",
+            "total": 14808,
+            "from": "PRG",
+            "airline-code": "AY",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/17241/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "DEL",
+            "total": 14813,
+            "from": "PRG",
+            "airline-code": "SU",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/13148/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "BKK",
+            "total": 14910,
+            "from": "VIE",
+            "airline-code": "AY",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/17242/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "HKG",
+            "total": 15062,
+            "from": "PRG",
+            "airline-code": "TK",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20011/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "NRT",
+            "total": 15238,
+            "from": "PRG",
+            "airline-code": "LO",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20096/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "HKT",
+            "total": 15420,
+            "from": "PRG",
+            "airline-code": "SU",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20360/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "PEK",
+            "total": 15470,
+            "from": "PRG",
+            "airline-code": "TK",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/18904/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "MLE",
+            "total": 15490,
+            "from": "PRG",
+            "airline-code": "SU",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/18465/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "HAN",
+            "total": 15527,
+            "from": "PRG",
+            "airline-code": "SU",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/18345/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "SGN",
+            "total": 15528,
+            "from": "PRG",
+            "airline-code": "EK",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/17330/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "BKK",
+            "total": 15555,
+            "from": "PRG",
+            "airline-code": "EK",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/18866/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "PVG",
+            "total": 15689,
+            "from": "PRG",
+            "airline-code": "EK",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/14455/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "SIN",
+            "total": 15835,
+            "from": "PRG",
+            "airline-code": "TK",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20320/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "NRT",
+            "total": 15846,
+            "from": "PRG",
+            "airline-code": "EK",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/17530/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "ICN",
+            "total": 15854,
+            "from": "PRG",
+            "airline-code": "TK",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20316/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "BKK",
+            "total": 15881,
+            "from": "PRG",
+            "airline-code": "LH",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20023/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "KUL",
+            "total": 15920,
+            "from": "PRG",
+            "airline-code": "EK",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/17725/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "CMB",
+            "total": 15973,
+            "from": "PRG",
+            "airline-code": "FZ",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/19869/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "ZNZ",
+            "total": 16400,
+            "from": "PRG",
+            "airline-code": "FZ",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/19751/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "HKT",
+            "total": 16462,
+            "from": "VIE",
+            "airline-code": "SU",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20359/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "SEZ",
+            "total": 16489,
+            "from": "PRG",
+            "airline-code": "JU",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20636/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "MLE",
+            "total": 16766,
+            "from": "PRG",
+            "airline-code": "TK",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20663/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "SIN",
+            "total": 16934,
+            "from": "PRG",
+            "airline-code": "EK",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/19438/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "CGK",
+            "total": 16963,
+            "from": "PRG",
+            "airline-code": "EK",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/17728/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "KTM",
+            "total": 17142,
+            "from": "PRG",
+            "airline-code": "FZ",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20493/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "CMB",
+            "total": 17145,
+            "from": "PRG",
+            "airline-code": "EK",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/18979/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "HKG",
+            "total": 17166,
+            "from": "BRQ",
+            "airline-code": "LH",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20018/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "CGK",
+            "total": 17577,
+            "from": "PRG",
+            "airline-code": "TK",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20315/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "BKK",
+            "total": 17779,
+            "from": "VIE",
+            "airline-code": "OS",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20655/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "TPE",
+            "total": 18621,
+            "from": "VIE",
+            "airline-code": "BR",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20576/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "MLE",
+            "total": 19073,
+            "from": "PRG",
+            "airline-code": "EK",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/18018/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "DPS",
+            "total": 19855,
+            "from": "PRG",
+            "airline-code": "EK",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/19129/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "MNL",
+            "total": 20056,
+            "from": "PRG",
+            "airline-code": "TK",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20318/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "MNL",
+            "total": 20056,
+            "from": "PRG",
+            "airline-code": "TK",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20665/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "DPS",
+            "total": 20107,
+            "from": "PRG",
+            "airline-code": "KE",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/19880/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "SIN",
+            "total": 20419,
+            "from": "PRG",
+            "airline-code": "SQ",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/19711/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "RUH",
+            "total": 21181,
+            "from": "PRG",
+            "airline-code": "OK",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20238/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "BKK",
+            "total": 21320,
+            "from": "VIE",
+            "airline-code": "BR",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20369/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "KTM",
+            "total": 22341,
+            "from": "PRG",
+            "airline-code": "TK",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20312/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "CEB",
+            "total": 22387,
+            "from": "PRG",
+            "airline-code": "KE",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/19879/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "CGK",
+            "total": 23851,
+            "from": "PRG",
+            "airline-code": "SQ",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/19716/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "DPS",
+            "total": 23943,
+            "from": "PRG",
+            "airline-code": "SQ",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/19712/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "TPE",
+            "total": 25002,
+            "from": "VIE",
+            "airline-code": "BR",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20575/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "HKT",
+            "total": 25106,
+            "from": "VIE",
+            "airline-code": "BR",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20588/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "SGN",
+            "total": 26496,
+            "from": "PRG",
+            "airline-code": "SQ",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/19718/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "HAN",
+            "total": 26617,
+            "from": "PRG",
+            "airline-code": "SQ",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/19717/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "BKK",
+            "total": 27010,
+            "from": "PRG",
+            "airline-code": "SQ",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/19715/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "MNL",
+            "total": 27958,
+            "from": "PRG",
+            "airline-code": "SQ",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/19714/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "HAN",
+            "total": 28246,
+            "from": "VIE",
+            "airline-code": "BR",
+            "offer": "sa_asie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20570/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "PRG",
+            "total": 1086,
+            "from": "LGW",
+            "airline-code": "QS",
+            "offer": "sa_eur_cz",
+            "type": "ONE_WAY",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20095/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "EIN",
+            "total": 1220,
+            "from": "BRQ",
+            "airline-code": "W6",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20637/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "SKP",
+            "total": 1371,
+            "from": "BTS",
+            "airline-code": "W6",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20513/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "LTN",
+            "total": 1468,
+            "from": "BRQ",
+            "airline-code": "W6",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20567/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "BGY",
+            "total": 1599,
+            "from": "OSR",
+            "airline-code": "FR",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20423/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "STN",
+            "total": 1679,
+            "from": "PRG",
+            "airline-code": "FR",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20424/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "CRL",
+            "total": 1679,
+            "from": "PRG",
+            "airline-code": "FR",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20489/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "PRG",
+            "total": 1998,
+            "from": "BTS",
+            "airline-code": "OK",
+            "offer": "sa_eur_cz",
+            "type": "ONE_WAY",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/15477/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "PRG",
+            "total": 2041,
+            "from": "HER",
+            "airline-code": "A3",
+            "offer": "sa_eur_cz",
+            "type": "ONE_WAY",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20451/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "BSL",
+            "total": 2058,
+            "from": "PRG",
+            "airline-code": "U2",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20556/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "LGW",
+            "total": 2163,
+            "from": "PRG",
+            "airline-code": "QS",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/18490/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "FCO",
+            "total": 2523,
+            "from": "VIE",
+            "airline-code": "IB",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/18080/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "SZY",
+            "total": 2653,
+            "from": "KRK",
+            "airline-code": "LO",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20438/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "CDG",
+            "total": 2656,
+            "from": "PRG",
+            "airline-code": "OK",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/13584/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "ARN",
+            "total": 2662,
+            "from": "VIE",
+            "airline-code": "AB",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20422/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "CDG",
+            "total": 2679,
+            "from": "VIE",
+            "airline-code": "AB",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20641/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "CDG",
+            "total": 2679,
+            "from": "VIE",
+            "airline-code": "HG",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/11875/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "SZY",
+            "total": 2707,
+            "from": "KTW",
+            "airline-code": "LO",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20436/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "BRQ",
+            "total": 2709,
+            "from": "MUC",
+            "airline-code": "BM",
+            "offer": "sa_eur_cz",
+            "type": "ONE_WAY",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20182/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "SKP",
+            "total": 2747,
+            "from": "PRG",
+            "airline-code": "OK",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20297/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "AMS",
+            "total": 2799,
+            "from": "PRG",
+            "airline-code": "KL",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/11682/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "AMS",
+            "total": 2801,
+            "from": "VIE",
+            "airline-code": "KL",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/19279/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "NCE",
+            "total": 2929,
+            "from": "VIE",
+            "airline-code": "HG",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/11876/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "NCE",
+            "total": 2929,
+            "from": "VIE",
+            "airline-code": "AB",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20153/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "GVA",
+            "total": 3129,
+            "from": "PRG",
+            "airline-code": "LX",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/15293/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "ZRH",
+            "total": 3169,
+            "from": "VIE",
+            "airline-code": "HG",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/11877/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "LIN",
+            "total": 3196,
+            "from": "VIE",
+            "airline-code": "HG",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/17051/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "ATH",
+            "total": 3213,
+            "from": "PRG",
+            "airline-code": "A3",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/17883/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "WAW",
+            "total": 3276,
+            "from": "PRG",
+            "airline-code": "LO",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/19710/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "WAW",
+            "total": 3364,
+            "from": "PRG",
+            "airline-code": "OK",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/16165/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "ARN",
+            "total": 3376,
+            "from": "PRG",
+            "airline-code": "OK",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/15837/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "BHX",
+            "total": 3383,
+            "from": "PRG",
+            "airline-code": "OK",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20071/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "LYS",
+            "total": 3387,
+            "from": "PRG",
+            "airline-code": "A5",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/18443/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "CPH",
+            "total": 3412,
+            "from": "PRG",
+            "airline-code": "OK",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/12786/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "CHQ",
+            "total": 3440,
+            "from": "PRG",
+            "airline-code": "A3",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20099/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "BCN",
+            "total": 3470,
+            "from": "VIE",
+            "airline-code": "AB",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20383/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "BTS",
+            "total": 3575,
+            "from": "PRG",
+            "airline-code": "OK",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/15513/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "CDG",
+            "total": 3604,
+            "from": "PRG",
+            "airline-code": "AF",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/7954/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "FCO",
+            "total": 3605,
+            "from": "VIE",
+            "airline-code": "HG",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/7985/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "ARN",
+            "total": 3608,
+            "from": "VIE",
+            "airline-code": "HG",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/9804/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "FCO",
+            "total": 3700,
+            "from": "PRG",
+            "airline-code": "AZ",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/10981/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "PMI",
+            "total": 3766,
+            "from": "VIE",
+            "airline-code": "AB",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20385/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "BCN",
+            "total": 3829,
+            "from": "PRG",
+            "airline-code": "OK",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/13429/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "ATH",
+            "total": 3857,
+            "from": "VIE",
+            "airline-code": "A3",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/17415/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "IST",
+            "total": 3877,
+            "from": "PRG",
+            "airline-code": "PS",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/15850/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "LIS",
+            "total": 3896,
+            "from": "PRG",
+            "airline-code": "KL",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20067/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "AMS",
+            "total": 3902,
+            "from": "PRG",
+            "airline-code": "OK",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/12409/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "LJU",
+            "total": 3967,
+            "from": "PRG",
+            "airline-code": "JP",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/15468/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "SKG",
+            "total": 3968,
+            "from": "PRG",
+            "airline-code": "A3",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20097/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "BCN",
+            "total": 4010,
+            "from": "VIE",
+            "airline-code": "HG",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/19007/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "FCO",
+            "total": 4030,
+            "from": "VIE",
+            "airline-code": "AZ",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/7201/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "SVO",
+            "total": 4090,
+            "from": "PRG",
+            "airline-code": "JU",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/17836/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "SAW",
+            "total": 4117,
+            "from": "VIE",
+            "airline-code": "TK",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/16227/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "KEF",
+            "total": 4175,
+            "from": "DUS",
+            "airline-code": "WW",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20555/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "RHO",
+            "total": 4180,
+            "from": "PRG",
+            "airline-code": "A3",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20100/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "MXP",
+            "total": 4238,
+            "from": "PRG",
+            "airline-code": "OK",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/8720/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "DBV",
+            "total": 4287,
+            "from": "VIE",
+            "airline-code": "AB",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20165/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "SPU",
+            "total": 4289,
+            "from": "VIE",
+            "airline-code": "AB",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20164/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "BIO",
+            "total": 4350,
+            "from": "PRG",
+            "airline-code": "LH",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/19957/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "BRU",
+            "total": 4362,
+            "from": "PRG",
+            "airline-code": "OK",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/12975/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "FCO",
+            "total": 4411,
+            "from": "PRG",
+            "airline-code": "OK",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/16862/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "IBZ",
+            "total": 4423,
+            "from": "PRG",
+            "airline-code": "KL",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20524/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "PMI",
+            "total": 4468,
+            "from": "VIE",
+            "airline-code": "HG",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/16528/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "CDG",
+            "total": 4477,
+            "from": "PRG",
+            "airline-code": "QS",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/14488/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "RAK",
+            "total": 4561,
+            "from": "VIE",
+            "airline-code": "AB",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20161/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "KSC",
+            "total": 4675,
+            "from": "PRG",
+            "airline-code": "OK",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/15504/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "IST",
+            "total": 4684,
+            "from": "PRG",
+            "airline-code": "TK",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/18978/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "MLA",
+            "total": 4723,
+            "from": "PRG",
+            "airline-code": "OK",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20386/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "OTP",
+            "total": 4741,
+            "from": "PRG",
+            "airline-code": "OK",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/16595/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "VLC",
+            "total": 4748,
+            "from": "PRG",
+            "airline-code": "LH",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/19960/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "SPU",
+            "total": 4777,
+            "from": "PRG",
+            "airline-code": "OU",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20258/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "BCN",
+            "total": 4786,
+            "from": "PRG",
+            "airline-code": "QS",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/16627/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "MAD",
+            "total": 4823,
+            "from": "VIE",
+            "airline-code": "AB",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20644/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "MAD",
+            "total": 4823,
+            "from": "VIE",
+            "airline-code": "HG",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/19008/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "LPL",
+            "total": 4904,
+            "from": "PRG",
+            "airline-code": "OK",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20072/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "OPO",
+            "total": 4907,
+            "from": "PRG",
+            "airline-code": "SN",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20068/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "FRA",
+            "total": 4958,
+            "from": "PRG",
+            "airline-code": "OK",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/18486/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "SVO",
+            "total": 4961,
+            "from": "VIE",
+            "airline-code": "JU",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/17381/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "BIO",
+            "total": 5117,
+            "from": "PRG",
+            "airline-code": "OK",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20557/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "PVK",
+            "total": 5117,
+            "from": "VIE",
+            "airline-code": "AB",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20173/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "LIS",
+            "total": 5125,
+            "from": "PRG",
+            "airline-code": "TP",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20298/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "MLA",
+            "total": 5167,
+            "from": "BUD",
+            "airline-code": "W6",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20439/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "ZTH",
+            "total": 5171,
+            "from": "VIE",
+            "airline-code": "AB",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20169/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "MLA",
+            "total": 5183,
+            "from": "VIE",
+            "airline-code": "AB",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20178/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "MUC",
+            "total": 5185,
+            "from": "BRQ",
+            "airline-code": "BM",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/19271/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "OPO",
+            "total": 5190,
+            "from": "PRG",
+            "airline-code": "LH",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/19958/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "OPO",
+            "total": 5190,
+            "from": "PRG",
+            "airline-code": "OK",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20558/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "HER",
+            "total": 5198,
+            "from": "VIE",
+            "airline-code": "AB",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20174/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "TKU",
+            "total": 5202,
+            "from": "PRG",
+            "airline-code": "BT",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20393/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "HEL",
+            "total": 5218,
+            "from": "PRG",
+            "airline-code": "BT",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20388/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "RIX",
+            "total": 5243,
+            "from": "PRG",
+            "airline-code": "BT",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20387/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "ARN",
+            "total": 5258,
+            "from": "PRG",
+            "airline-code": "BT",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20389/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "SZY",
+            "total": 5292,
+            "from": "VIE",
+            "airline-code": "LO",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20437/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "MLA",
+            "total": 5352,
+            "from": "PRG",
+            "airline-code": "LH",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/19959/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "PSA",
+            "total": 5384,
+            "from": "PRG",
+            "airline-code": "OK",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20560/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "KVA",
+            "total": 5388,
+            "from": "VIE",
+            "airline-code": "AB",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20172/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "VOL",
+            "total": 5388,
+            "from": "VIE",
+            "airline-code": "AB",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20171/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "LHR",
+            "total": 5444,
+            "from": "PRG",
+            "airline-code": "BA",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/16126/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "CPH",
+            "total": 5462,
+            "from": "PRG",
+            "airline-code": "BT",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20391/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "CFU",
+            "total": 5469,
+            "from": "VIE",
+            "airline-code": "AB",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20160/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "BEG",
+            "total": 5582,
+            "from": "PRG",
+            "airline-code": "JU",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/19545/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "SVO",
+            "total": 5599,
+            "from": "PRG",
+            "airline-code": "OK",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20526/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "PMI",
+            "total": 5669,
+            "from": "PRG",
+            "airline-code": "QS",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/16632/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "LYS",
+            "total": 5691,
+            "from": "PRG",
+            "airline-code": "LH",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20036/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "VNO",
+            "total": 5748,
+            "from": "PRG",
+            "airline-code": "BT",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20396/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "TLL",
+            "total": 5761,
+            "from": "PRG",
+            "airline-code": "BT",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20390/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "SZY",
+            "total": 5809,
+            "from": "PRG",
+            "airline-code": "LO",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20432/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "SPU",
+            "total": 5814,
+            "from": "PRG",
+            "airline-code": "QS",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/16851/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "MAD",
+            "total": 5915,
+            "from": "PRG",
+            "airline-code": "QS",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/16628/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "PFO",
+            "total": 6069,
+            "from": "DRS",
+            "airline-code": "ST",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20547/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "HER",
+            "total": 6089,
+            "from": "PRG",
+            "airline-code": "A3",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20397/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "LED",
+            "total": 6153,
+            "from": "PRG",
+            "airline-code": "SU",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/11865/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "SVO",
+            "total": 6253,
+            "from": "PRG",
+            "airline-code": "SU",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20525/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "LED",
+            "total": 6281,
+            "from": "PRG",
+            "airline-code": "OK",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/16636/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "IEV",
+            "total": 6330,
+            "from": "PRG",
+            "airline-code": "BT",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20394/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "KBP",
+            "total": 6360,
+            "from": "PRG",
+            "airline-code": "PS",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/16067/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "SVO",
+            "total": 6385,
+            "from": "PRG",
+            "airline-code": "BT",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20392/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "KEF",
+            "total": 6494,
+            "from": "MUC",
+            "airline-code": "AB",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20514/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "BRU",
+            "total": 6537,
+            "from": "PRG",
+            "airline-code": "LO",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20594/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "LED",
+            "total": 6657,
+            "from": "PRG",
+            "airline-code": "BT",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20395/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "BRI",
+            "total": 6674,
+            "from": "PRG",
+            "airline-code": "LH",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/19955/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "LED",
+            "total": 6686,
+            "from": "PRG",
+            "airline-code": "OK",
+            "offer": "sa_eur_cz",
+            "type": "OPEN_JAW",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/19822/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "PDL",
+            "total": 6828,
+            "from": "MUC",
+            "airline-code": "TP",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20528/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "UME",
+            "total": 7441,
+            "from": "PRG",
+            "airline-code": "AY",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20530/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "KGS",
+            "total": 7579,
+            "from": "VIE",
+            "airline-code": "AB",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20384/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "FNC",
+            "total": 7619,
+            "from": "VIE",
+            "airline-code": "AB",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20176/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "FNC",
+            "total": 7748,
+            "from": "DRS",
+            "airline-code": "ST",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20433/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "TFS",
+            "total": 7868,
+            "from": "BRQ",
+            "airline-code": "QS",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/19766/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "FNC",
+            "total": 8405,
+            "from": "PRG",
+            "airline-code": "TP",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20115/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "FUE",
+            "total": 8684,
+            "from": "PRG",
+            "airline-code": "QS",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/19764/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "ACE",
+            "total": 8684,
+            "from": "PRG",
+            "airline-code": "QS",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/19767/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "LPA",
+            "total": 8709,
+            "from": "PRG",
+            "airline-code": "QS",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/19765/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "TFS",
+            "total": 8709,
+            "from": "PRG",
+            "airline-code": "QS",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/16624/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "OPO",
+            "total": 8842,
+            "from": "PRG",
+            "airline-code": "TP",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20308/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "PDL",
+            "total": 9800,
+            "from": "PRG",
+            "airline-code": "TP",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/19857/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "FAO",
+            "total": 12297,
+            "from": "PRG",
+            "airline-code": "TP",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20301/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "KEF",
+            "total": 13692,
+            "from": "PRG",
+            "airline-code": "AB",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20640/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "MSQ",
+            "total": 78249,
+            "from": "PRG",
+            "airline-code": "PS",
+            "offer": "sa_eur_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/19523/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "CMN",
+            "total": 7993,
+            "from": "PRG",
+            "airline-code": "TP",
+            "offer": "sa_jamafrika_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/19131/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "RAK",
+            "total": 8758,
+            "from": "PRG",
+            "airline-code": "TP",
+            "offer": "sa_jamafrika_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20303/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "NBO",
+            "total": 13222,
+            "from": "PRG",
+            "airline-code": "KL",
+            "offer": "sa_jamafrika_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20606/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "JNB",
+            "total": 14917,
+            "from": "PRG",
+            "airline-code": "KL",
+            "offer": "sa_jamafrika_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20605/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "ADD",
+            "total": 14984,
+            "from": "PRG",
+            "airline-code": "TK",
+            "offer": "sa_jamafrika_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20317/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "GIG",
+            "total": 15215,
+            "from": "PRG",
+            "airline-code": "KL",
+            "offer": "sa_jamafrika_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20505/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "NBO",
+            "total": 15401,
+            "from": "PRG",
+            "airline-code": "TK",
+            "offer": "sa_jamafrika_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/18649/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "JNB",
+            "total": 15523,
+            "from": "VIE",
+            "airline-code": "IB",
+            "offer": "sa_jamafrika_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/19575/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "GRU",
+            "total": 15733,
+            "from": "PRG",
+            "airline-code": "AF",
+            "offer": "sa_jamafrika_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20510/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "GRU",
+            "total": 15735,
+            "from": "PRG",
+            "airline-code": "KL",
+            "offer": "sa_jamafrika_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20509/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "JNB",
+            "total": 15950,
+            "from": "PRG",
+            "airline-code": "TK",
+            "offer": "sa_jamafrika_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20668/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "ZNZ",
+            "total": 16400,
+            "from": "PRG",
+            "airline-code": "FZ",
+            "offer": "sa_jamafrika_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/19751/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "EBB",
+            "total": 16676,
+            "from": "PRG",
+            "airline-code": "TK",
+            "offer": "sa_jamafrika_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20670/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "JRO",
+            "total": 16677,
+            "from": "PRG",
+            "airline-code": "TK",
+            "offer": "sa_jamafrika_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20669/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "NBO",
+            "total": 17166,
+            "from": "PRG",
+            "airline-code": "EK",
+            "offer": "sa_jamafrika_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/17322/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "DAR",
+            "total": 17877,
+            "from": "PRG",
+            "airline-code": "TK",
+            "offer": "sa_jamafrika_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20314/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "DUR",
+            "total": 18250,
+            "from": "PRG",
+            "airline-code": "TK",
+            "offer": "sa_jamafrika_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20666/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "EZE",
+            "total": 18383,
+            "from": "PRG",
+            "airline-code": "KL",
+            "offer": "sa_jamafrika_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20506/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "CPT",
+            "total": 18650,
+            "from": "PRG",
+            "airline-code": "TK",
+            "offer": "sa_jamafrika_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20667/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "BOG",
+            "total": 19126,
+            "from": "PRG",
+            "airline-code": "KL",
+            "offer": "sa_jamafrika_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20507/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "JNB",
+            "total": 19273,
+            "from": "PRG",
+            "airline-code": "EK",
+            "offer": "sa_jamafrika_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/14468/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "MRU",
+            "total": 19752,
+            "from": "PRG",
+            "airline-code": "MK",
+            "offer": "sa_jamafrika_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/19952/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "LIM",
+            "total": 20466,
+            "from": "PRG",
+            "airline-code": "KL",
+            "offer": "sa_jamafrika_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20608/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "MRU",
+            "total": 20844,
+            "from": "PRG",
+            "airline-code": "TK",
+            "offer": "sa_jamafrika_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20664/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "MRU",
+            "total": 20875,
+            "from": "PRG",
+            "airline-code": "AF",
+            "offer": "sa_jamafrika_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20508/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "CPT",
+            "total": 21190,
+            "from": "PRG",
+            "airline-code": "EK",
+            "offer": "sa_jamafrika_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/18017/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "PER",
+            "total": 21096,
+            "from": "PRG",
+            "airline-code": "JU",
+            "offer": "sa_australie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20628/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "SYD",
+            "total": 21650,
+            "from": "PRG",
+            "airline-code": "JU",
+            "offer": "sa_australie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20631/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "MEL",
+            "total": 21655,
+            "from": "PRG",
+            "airline-code": "JU",
+            "offer": "sa_australie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20629/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "BNE",
+            "total": 21657,
+            "from": "PRG",
+            "airline-code": "JU",
+            "offer": "sa_australie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20630/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "MEL",
+            "total": 22846,
+            "from": "PRG",
+            "airline-code": "MU",
+            "offer": "sa_australie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20516/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "ROR",
+            "total": 22852,
+            "from": "PRG",
+            "airline-code": "KE",
+            "offer": "sa_australie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20264/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "AKL",
+            "total": 23367,
+            "from": "PRG",
+            "airline-code": "MU",
+            "offer": "sa_australie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20517/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "AKL",
+            "total": 28965,
+            "from": "PRG",
+            "airline-code": "KE",
+            "offer": "sa_australie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/19878/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "SYD",
+            "total": 29029,
+            "from": "PRG",
+            "airline-code": "KE",
+            "offer": "sa_australie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/19876/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "PER",
+            "total": 29293,
+            "from": "PRG",
+            "airline-code": "EK",
+            "offer": "sa_australie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/16952/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "BNE",
+            "total": 29498,
+            "from": "PRG",
+            "airline-code": "EK",
+            "offer": "sa_australie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/17149/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "MEL",
+            "total": 30661,
+            "from": "PRG",
+            "airline-code": "EK",
+            "offer": "sa_australie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/14481/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "AKL",
+            "total": 30697,
+            "from": "PRG",
+            "airline-code": "EK",
+            "offer": "sa_australie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/14482/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "SYD",
+            "total": 30828,
+            "from": "PRG",
+            "airline-code": "EK",
+            "offer": "sa_australie_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/14479/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "LAX",
+            "total": 10171,
+            "from": "VIE",
+            "airline-code": "BA",
+            "offer": "sa_sam_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20596/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "SFO",
+            "total": 10312,
+            "from": "VIE",
+            "airline-code": "BA",
+            "offer": "sa_sam_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20595/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "SFO",
+            "total": 10778,
+            "from": "VIE",
+            "airline-code": "UA",
+            "offer": "sa_sam_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20476/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "LAX",
+            "total": 10922,
+            "from": "VIE",
+            "airline-code": "UA",
+            "offer": "sa_sam_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20475/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "JFK",
+            "total": 11036,
+            "from": "VIE",
+            "airline-code": "AB",
+            "offer": "sa_sam_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20139/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "LAX",
+            "total": 11054,
+            "from": "VIE",
+            "airline-code": "AB",
+            "offer": "sa_sam_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20587/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "JFK",
+            "total": 11183,
+            "from": "PRG",
+            "airline-code": "LO",
+            "offer": "sa_sam_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20638/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "BOS",
+            "total": 11436,
+            "from": "SXF",
+            "airline-code": "DY",
+            "offer": "sa_sam_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20565/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "BOS",
+            "total": 11540,
+            "from": "VIE",
+            "airline-code": "AB",
+            "offer": "sa_sam_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20642/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "MIA",
+            "total": 11893,
+            "from": "VIE",
+            "airline-code": "AB",
+            "offer": "sa_sam_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20643/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "ORD",
+            "total": 12106,
+            "from": "TXL",
+            "airline-code": "AB",
+            "offer": "sa_sam_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20228/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "PTY",
+            "total": 12796,
+            "from": "TXL",
+            "airline-code": "KL",
+            "offer": "sa_sam_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20597/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "MIA",
+            "total": 12840,
+            "from": "VIE",
+            "airline-code": "UA",
+            "offer": "sa_sam_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20477/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "JFK",
+            "total": 13359,
+            "from": "PRG",
+            "airline-code": "LH",
+            "offer": "sa_sam_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20146/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "YYZ",
+            "total": 13387,
+            "from": "PRG",
+            "airline-code": "LH",
+            "offer": "sa_sam_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20148/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "JFK",
+            "total": 13389,
+            "from": "PRG",
+            "airline-code": "LX",
+            "offer": "sa_sam_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20504/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "JFK",
+            "total": 13475,
+            "from": "PRG",
+            "airline-code": "AF",
+            "offer": "sa_sam_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/18555/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "JFK",
+            "total": 13503,
+            "from": "PRG",
+            "airline-code": "KL",
+            "offer": "sa_sam_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20230/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "YYZ",
+            "total": 13777,
+            "from": "PRG",
+            "airline-code": "KL",
+            "offer": "sa_sam_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20603/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "FDF",
+            "total": 14096,
+            "from": "PRG",
+            "airline-code": "AF",
+            "offer": "sa_sam_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/19924/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "ORD",
+            "total": 14183,
+            "from": "PRG",
+            "airline-code": "LO",
+            "offer": "sa_sam_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20180/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "MIA",
+            "total": 15859,
+            "from": "PRG",
+            "airline-code": "LH",
+            "offer": "sa_sam_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20147/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "MIA",
+            "total": 15975,
+            "from": "PRG",
+            "airline-code": "AF",
+            "offer": "sa_sam_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20232/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "YUL",
+            "total": 16489,
+            "from": "PRG",
+            "airline-code": "TS",
+            "offer": "sa_sam_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20219/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "ORD",
+            "total": 16506,
+            "from": "PRG",
+            "airline-code": "KL",
+            "offer": "sa_sam_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/18865/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "HAV",
+            "total": 16721,
+            "from": "PRG",
+            "airline-code": "AF",
+            "offer": "sa_sam_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/19930/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "HAV",
+            "total": 16790,
+            "from": "PRG",
+            "airline-code": "SU",
+            "offer": "sa_sam_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/19953/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "VRA",
+            "total": 16790,
+            "from": "VIE",
+            "airline-code": "AB",
+            "offer": "sa_sam_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20168/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "LAX",
+            "total": 16859,
+            "from": "PRG",
+            "airline-code": "LH",
+            "offer": "sa_sam_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20149/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "BOS",
+            "total": 17170,
+            "from": "PRG",
+            "airline-code": "TK",
+            "offer": "sa_sam_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/19899/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "IAD",
+            "total": 17170,
+            "from": "PRG",
+            "airline-code": "TK",
+            "offer": "sa_sam_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/19903/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "ORD",
+            "total": 17170,
+            "from": "PRG",
+            "airline-code": "TK",
+            "offer": "sa_sam_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/19902/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "JFK",
+            "total": 17170,
+            "from": "PRG",
+            "airline-code": "TK",
+            "offer": "sa_sam_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/19897/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "SJO",
+            "total": 17338,
+            "from": "PRG",
+            "airline-code": "AF",
+            "offer": "sa_sam_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/19926/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "SDQ",
+            "total": 18140,
+            "from": "PRG",
+            "airline-code": "AF",
+            "offer": "sa_sam_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/19944/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "CUR",
+            "total": 18752,
+            "from": "VIE",
+            "airline-code": "AB",
+            "offer": "sa_sam_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/19625/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "IAH",
+            "total": 18954,
+            "from": "PRG",
+            "airline-code": "TK",
+            "offer": "sa_sam_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/19901/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "SFO",
+            "total": 18954,
+            "from": "PRG",
+            "airline-code": "TK",
+            "offer": "sa_sam_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/19904/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "MIA",
+            "total": 18954,
+            "from": "PRG",
+            "airline-code": "TK",
+            "offer": "sa_sam_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/19898/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "HAV",
+            "total": 19183,
+            "from": "PRG",
+            "airline-code": "LX",
+            "offer": "sa_sam_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20503/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "TPA",
+            "total": 19430,
+            "from": "PRG",
+            "airline-code": "LH",
+            "offer": "sa_sam_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20671/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "PUJ",
+            "total": 20167,
+            "from": "PRG",
+            "airline-code": "AF",
+            "offer": "sa_sam_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/19927/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "PTY",
+            "total": 20174,
+            "from": "PRG",
+            "airline-code": "LH",
+            "offer": "sa_sam_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20672/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "YYZ",
+            "total": 20539,
+            "from": "PRG",
+            "airline-code": "TS",
+            "offer": "sa_sam_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20490/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "SJC",
+            "total": 21051,
+            "from": "PRG",
+            "airline-code": "LH",
+            "offer": "sa_sam_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/20674/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        },
+        {
+            "to": "JFK",
+            "total": 25024,
+            "from": "PRG",
+            "airline-code": "DL",
+            "offer": "sa_sam_cz",
+            "type": "ROUND_TRIP",
+            "url": "http://letenky.studentagency.cz/booking/action-pricer/offer/19818/id_dealer/10/id_dealer/10",
+            "currency": "CZK"
+        }
+    ],
+    "airports": [
+        {
+            "id": 31334,
+            "iata": "LGW",
+            "price": 1086,
+            "name": "Londýn",
+            "y": -0.1638,
+            "currency": "CZK",
+            "x": 51.1541
+        },
+        {
+            "id": 30327,
+            "iata": "VLC",
+            "price": 4748,
+            "name": "Valencia",
+            "y": -0.4814,
+            "currency": "CZK",
+            "x": 39.49
+        },
+        {
+            "id": 29809,
+            "iata": "TLL",
+            "price": 5761,
+            "name": "Tallinn",
+            "y": 24.8328,
+            "currency": "CZK",
+            "x": 59.4133
+        },
+        {
+            "id": 26100,
+            "iata": "KGS",
+            "price": 6770,
+            "name": "Kos",
+            "y": 27.1,
+            "currency": "CZK",
+            "x": 36.8
+        },
+        {
+            "id": 38280,
+            "iata": "ROR",
+            "price": 22852,
+            "name": "Koror",
+            "y": 134.5531,
+            "currency": "CZK",
+            "x": 7.3644
+        },
+        {
+            "id": 22908,
+            "iata": "AQJ",
+            "price": 7318,
+            "name": "Aqaba",
+            "y": 35.0181,
+            "currency": "CZK",
+            "x": 29.61
+        },
+        {
+            "id": 27899,
+            "iata": "OGG",
+            "price": 11736,
+            "name": "Kahului",
+            "y": -156.4389,
+            "currency": "CZK",
+            "x": 20.8981
+        },
+        {
+            "id": 31560,
+            "iata": "PVK",
+            "price": 5117,
+            "name": "Preveza/Lefkas",
+            "y": 20.7658,
+            "currency": "CZK",
+            "x": 38.9264
+        },
+        {
+            "id": 28553,
+            "iata": "PVG",
+            "price": 13277,
+            "name": "Šanghaj",
+            "y": 121.7914,
+            "currency": "CZK",
+            "x": 31.1439
+        },
+        {
+            "id": 23801,
+            "iata": "CFU",
+            "price": 5468,
+            "name": "Korfu",
+            "y": 19.8666,
+            "currency": "CZK",
+            "x": 39.6166
+        },
+        {
+            "id": 29818,
+            "iata": "TLV",
+            "price": 5175,
+            "name": "Tel Aviv",
+            "y": 34.8969,
+            "currency": "CZK",
+            "x": 31.9962
+        },
+        {
+            "id": 32014,
+            "iata": "YYZ",
+            "price": 12684,
+            "name": "Toronto",
+            "y": -79.6125,
+            "currency": "CZK",
+            "x": 43.6792
+        },
+        {
+            "id": 32011,
+            "iata": "SHA",
+            "price": 13817,
+            "name": "Šanghaj",
+            "y": 121.3426,
+            "currency": "CZK",
+            "x": 31.2004
+        },
+        {
+            "id": 26368,
+            "iata": "KTW",
+            "price": 2660,
+            "name": "Katovice",
+            "y": 19.0833,
+            "currency": "CZK",
+            "x": 50.4833
+        },
+        {
+            "id": 24734,
+            "iata": "FAO",
+            "price": 12295,
+            "name": "Faro",
+            "y": -7.9697,
+            "currency": "CZK",
+            "x": 37.0133
+        },
+        {
+            "id": 26358,
+            "iata": "KTM",
+            "price": 17130,
+            "name": "Kathmandu",
+            "y": 85.35,
+            "currency": "CZK",
+            "x": 27.7166
+        },
+        {
+            "id": 27229,
+            "iata": "MNL",
+            "price": 12896,
+            "name": "Manila",
+            "y": 121.0172,
+            "currency": "CZK",
+            "x": 14.5112
+        },
+        {
+            "id": 28641,
+            "iata": "RAK",
+            "price": 4560,
+            "name": "Marrakech",
+            "y": -8.0383,
+            "currency": "CZK",
+            "x": 31.6117
+        },
+        {
+            "id": 29142,
+            "iata": "SIN",
+            "price": 13225,
+            "name": "Singapur",
+            "y": 103.9894,
+            "currency": "CZK",
+            "x": 1.3592
+        },
+        {
+            "id": 29530,
+            "iata": "SYD",
+            "price": 21621,
+            "name": "Sydney",
+            "y": 151.1806,
+            "currency": "CZK",
+            "x": -33.9457
+        },
+        {
+            "id": 22926,
+            "iata": "ARN",
+            "price": 2117,
+            "name": "Stockholm",
+            "y": 17.9315,
+            "currency": "CZK",
+            "x": 59.6485
+        },
+        {
+            "id": 26395,
+            "iata": "KVA",
+            "price": 5387,
+            "name": "Kavala",
+            "y": 24.4167,
+            "currency": "CZK",
+            "x": 40.9333
+        },
+        {
+            "id": 23505,
+            "iata": "BSL",
+            "price": 2058,
+            "name": "Basilej",
+            "y": 7.5327,
+            "currency": "CZK",
+            "x": 47.6006
+        },
+        {
+            "id": 31954,
+            "iata": "PFO",
+            "price": 6068,
+            "name": "Paphos",
+            "y": 32.4166,
+            "currency": "CZK",
+            "x": 34.75
+        },
+        {
+            "id": 23488,
+            "iata": "BRU",
+            "price": 3784,
+            "name": "Brusel",
+            "y": 4.485,
+            "currency": "CZK",
+            "x": 50.8976
+        },
+        {
+            "id": 38776,
+            "iata": "KUT",
+            "price": 6644,
+            "name": "Kutaisi",
+            "y": 42.465531,
+            "currency": "CZK",
+            "x": 42.182053
+        },
+        {
+            "id": 38141,
+            "iata": "BRQ",
+            "price": 1220,
+            "name": "Brno",
+            "y": 16.69305,
+            "currency": "CZK",
+            "x": 49.152259
+        },
+        {
+            "id": 23812,
+            "iata": "CGK",
+            "price": 14181,
+            "name": "Jakarta",
+            "y": 106.6439,
+            "currency": "CZK",
+            "x": -6.108
+        },
+        {
+            "id": 32035,
+            "iata": "SXF",
+            "price": 11436,
+            "name": "Berlín",
+            "y": 13.5148,
+            "currency": "CZK",
+            "x": 52.3858
+        },
+        {
+            "id": 31951,
+            "iata": "KUL",
+            "price": 11847,
+            "name": "Kuala Lumpur",
+            "y": 101.685,
+            "currency": "CZK",
+            "x": 2.735
+        },
+        {
+            "id": 31403,
+            "iata": "BCN",
+            "price": 2657,
+            "name": "Barcelona",
+            "y": 2.0833,
+            "currency": "CZK",
+            "x": 41.3
+        },
+        {
+            "id": 29167,
+            "iata": "SJO",
+            "price": 17336,
+            "name": "San Jose",
+            "y": -84.2117,
+            "currency": "CZK",
+            "x": 9.9933
+        },
+        {
+            "id": 26412,
+            "iata": "KWI",
+            "price": 11706,
+            "name": "Kuwait",
+            "y": 48.0502,
+            "currency": "CZK",
+            "x": 29.3332
+        },
+        {
+            "id": 29172,
+            "iata": "SJU",
+            "price": 10987,
+            "name": "San Juan",
+            "y": -66.0054,
+            "currency": "CZK",
+            "x": 18.4414
+        },
+        {
+            "id": 26622,
+            "iata": "LIM",
+            "price": 20459,
+            "name": "Lima",
+            "y": -77.1181,
+            "currency": "CZK",
+            "x": -12.0117
+        },
+        {
+            "id": 32007,
+            "iata": "LIN",
+            "price": 3195,
+            "name": "Milán",
+            "y": 9.2814,
+            "currency": "CZK",
+            "x": 45.4628
+        },
+        {
+            "id": 26627,
+            "iata": "LIS",
+            "price": 3895,
+            "name": "Lisabon",
+            "y": -9.1321,
+            "currency": "CZK",
+            "x": 38.771
+        },
+        {
+            "id": 31601,
+            "iata": "OTP",
+            "price": 4740,
+            "name": "Bukurešť",
+            "y": 26.0833,
+            "currency": "CZK",
+            "x": 44.5
+        },
+        {
+            "id": 26617,
+            "iata": "LIH",
+            "price": 11736,
+            "name": "Kauai Island",
+            "y": -159.3453,
+            "currency": "CZK",
+            "x": 21.9842
+        },
+        {
+            "id": 22637,
+            "iata": "ACE",
+            "price": 8684,
+            "name": "Lanzarote",
+            "y": -13.6,
+            "currency": "CZK",
+            "x": 28.95
+        },
+        {
+            "id": 32036,
+            "iata": "SJC",
+            "price": 21051,
+            "name": "San Jose",
+            "y": -121.9275,
+            "currency": "CZK",
+            "x": 37.3617
+        },
+        {
+            "id": 25931,
+            "iata": "JRO",
+            "price": 16676,
+            "name": "Kilimanjaro",
+            "y": 37.0722,
+            "currency": "CZK",
+            "x": -3.4278
+        },
+        {
+            "id": 38328,
+            "iata": "SAW",
+            "price": 3034,
+            "name": "Istanbul",
+            "y": 29.3092,
+            "currency": "CZK",
+            "x": 40.8994
+        },
+        {
+            "id": 26059,
+            "iata": "KEF",
+            "price": 4175,
+            "name": "Reykjavik",
+            "y": -22.6,
+            "currency": "CZK",
+            "x": 63.9833
+        },
+        {
+            "id": 31568,
+            "iata": "GVA",
+            "price": 3124,
+            "name": "Ženeva",
+            "y": 6.1148,
+            "currency": "CZK",
+            "x": 46.2355
+        },
+        {
+            "id": 23746,
+            "iata": "CDG",
+            "price": 2597,
+            "name": "Paříž",
+            "y": 2.5477,
+            "currency": "CZK",
+            "x": 49.0151
+        },
+        {
+            "id": 24120,
+            "iata": "CUR",
+            "price": 18752,
+            "name": "Curacao",
+            "y": -68.958083,
+            "currency": "CZK",
+            "x": 12.187687
+        },
+        {
+            "id": 24116,
+            "iata": "CUN",
+            "price": 11306,
+            "name": "Cancun",
+            "y": -86.8744,
+            "currency": "CZK",
+            "x": 21.0397
+        },
+        {
+            "id": 23204,
+            "iata": "BEY",
+            "price": 7881,
+            "name": "Bejrút",
+            "y": 35.4929,
+            "currency": "CZK",
+            "x": 33.8264
+        },
+        {
+            "id": 23548,
+            "iata": "BUD",
+            "price": 3482,
+            "name": "Budapešť",
+            "y": 19.2333,
+            "currency": "CZK",
+            "x": 47.4333
+        },
+        {
+            "id": 22970,
+            "iata": "ATH",
+            "price": 3009,
+            "name": "Athény",
+            "y": 23.9399,
+            "currency": "CZK",
+            "x": 37.9334
+        },
+        {
+            "id": 32034,
+            "iata": "SKP",
+            "price": 1230,
+            "name": "Skopje",
+            "y": 21.6181,
+            "currency": "CZK",
+            "x": 41.9619
+        },
+        {
+            "id": 27173,
+            "iata": "MLE",
+            "price": 12749,
+            "name": "Male",
+            "y": 73.5001,
+            "currency": "CZK",
+            "x": 4.1667
+        },
+        {
+            "id": 29792,
+            "iata": "TKU",
+            "price": 5202,
+            "name": "Turku",
+            "y": 22.265,
+            "currency": "CZK",
+            "x": 60.5147
+        },
+        {
+            "id": 26607,
+            "iata": "LHR",
+            "price": 5074,
+            "name": "Londýn",
+            "y": -0.4528,
+            "currency": "CZK",
+            "x": 51.4714
+        },
+        {
+            "id": 27170,
+            "iata": "MLA",
+            "price": 3482,
+            "name": "Malta (Valletta)",
+            "y": 14.4919,
+            "currency": "CZK",
+            "x": 35.8577
+        },
+        {
+            "id": 38815,
+            "iata": "SZY",
+            "price": 2601,
+            "name": "Olsztyn",
+            "y": 20.946705,
+            "currency": "CZK",
+            "x": 53.487809
+        },
+        {
+            "id": 23537,
+            "iata": "BTS",
+            "price": 1230,
+            "name": "Bratislava",
+            "y": 17.1974,
+            "currency": "CZK",
+            "x": 48.1681
+        },
+        {
+            "id": 24912,
+            "iata": "FUE",
+            "price": 8684,
+            "name": "Fuerteventura",
+            "y": -13.8633,
+            "currency": "CZK",
+            "x": 28.4533
+        },
+        {
+            "id": 23188,
+            "iata": "BEG",
+            "price": 3989,
+            "name": "Bělehrad",
+            "y": 20.3117,
+            "currency": "CZK",
+            "x": 44.8183
+        },
+        {
+            "id": 31564,
+            "iata": "SKG",
+            "price": 3763,
+            "name": "Soluň",
+            "y": 22.9717,
+            "currency": "CZK",
+            "x": 40.5197
+        },
+        {
+            "id": 23761,
+            "iata": "CEB",
+            "price": 22387,
+            "name": "Cebu",
+            "y": 123.9,
+            "currency": "CZK",
+            "x": 10.3
+        },
+        {
+            "id": 31415,
+            "iata": "DXB",
+            "price": 5959,
+            "name": "Dubaj",
+            "y": 55.3644,
+            "currency": "CZK",
+            "x": 25.2528
+        },
+        {
+            "id": 23890,
+            "iata": "CKG",
+            "price": 10977,
+            "name": "Chongqing",
+            "y": 106.5833,
+            "currency": "CZK",
+            "x": 29.7
+        },
+        {
+            "id": 27481,
+            "iata": "MXP",
+            "price": 4235,
+            "name": "Milán",
+            "y": 8.7236,
+            "currency": "CZK",
+            "x": 45.6402
+        },
+        {
+            "id": 26638,
+            "iata": "LJU",
+            "price": 3965,
+            "name": "Lublaň",
+            "y": 14.46,
+            "currency": "CZK",
+            "x": 46.2231
+        },
+        {
+            "id": 29419,
+            "iata": "STT",
+            "price": 11219,
+            "name": "St Thomas Island",
+            "y": -64.97,
+            "currency": "CZK",
+            "x": 18.3417
+        },
+        {
+            "id": 30140,
+            "iata": "UME",
+            "price": 7438,
+            "name": "Umea",
+            "y": 20.2833,
+            "currency": "CZK",
+            "x": 63.7931
+        },
+        {
+            "id": 26885,
+            "iata": "LYS",
+            "price": 3387,
+            "name": "Lyon",
+            "y": 5.0833,
+            "currency": "CZK",
+            "x": 45.7167
+        },
+        {
+            "id": 29423,
+            "iata": "STX",
+            "price": 11219,
+            "name": "St Croix Island",
+            "y": -64.7989,
+            "currency": "CZK",
+            "x": 17.7039
+        },
+        {
+            "id": 25905,
+            "iata": "JNB",
+            "price": 14891,
+            "name": "Johannesburg",
+            "y": 28.2298,
+            "currency": "CZK",
+            "x": -26.133
+        },
+        {
+            "id": 25061,
+            "iata": "GIG",
+            "price": 15210,
+            "name": "Rio de Janeiro",
+            "y": -43.2608,
+            "currency": "CZK",
+            "x": -22.8097
+        },
+        {
+            "id": 30425,
+            "iata": "WAW",
+            "price": 3269,
+            "name": "Varšava",
+            "y": 20.9666,
+            "currency": "CZK",
+            "x": 52.1666
+        },
+        {
+            "id": 38139,
+            "iata": "BGY",
+            "price": 1584,
+            "name": "Milán",
+            "y": 9.7067,
+            "currency": "CZK",
+            "x": 45.6683
+        },
+        {
+            "id": 31600,
+            "iata": "TXL",
+            "price": 12084,
+            "name": "Berlín",
+            "y": 13.2941,
+            "currency": "CZK",
+            "x": 52.5557
+        },
+        {
+            "id": 29020,
+            "iata": "SDQ",
+            "price": 17916,
+            "name": "Santo Domingo",
+            "y": -69.6683,
+            "currency": "CZK",
+            "x": 18.43
+        },
+        {
+            "id": 29027,
+            "iata": "SEA",
+            "price": 11258,
+            "name": "Seattle",
+            "y": -122.3019,
+            "currency": "CZK",
+            "x": 47.4436
+        },
+        {
+            "id": 31412,
+            "iata": "RIX",
+            "price": 5241,
+            "name": "Riga",
+            "y": 23.9711,
+            "currency": "CZK",
+            "x": 56.9236
+        },
+        {
+            "id": 29415,
+            "iata": "STN",
+            "price": 1663,
+            "name": "Londýn",
+            "y": 0.2529,
+            "currency": "CZK",
+            "x": 51.8812
+        },
+        {
+            "id": 31290,
+            "iata": "ZNZ",
+            "price": 16387,
+            "name": "Zanzibar",
+            "y": 39.2219,
+            "currency": "CZK",
+            "x": -6.2192
+        },
+        {
+            "id": 22654,
+            "iata": "ADD",
+            "price": 13208,
+            "name": "Addis Abeba",
+            "y": 38.7833,
+            "currency": "CZK",
+            "x": 9
+        },
+        {
+            "id": 27097,
+            "iata": "MIA",
+            "price": 11882,
+            "name": "Miami",
+            "y": -80.2792,
+            "currency": "CZK",
+            "x": 25.7947
+        },
+        {
+            "id": 31404,
+            "iata": "PMI",
+            "price": 2930,
+            "name": "Palma de Mallorca",
+            "y": 2.7442,
+            "currency": "CZK",
+            "x": 39.5483
+        },
+        {
+            "id": 29065,
+            "iata": "SFO",
+            "price": 9981,
+            "name": "San Francisko",
+            "y": -122.3819,
+            "currency": "CZK",
+            "x": 37.6183
+        },
+        {
+            "id": 38194,
+            "iata": "IKA",
+            "price": 5428,
+            "name": "Teherán",
+            "y": 51.1508,
+            "currency": "CZK",
+            "x": 35.4097
+        },
+        {
+            "id": 23270,
+            "iata": "BHX",
+            "price": 3379,
+            "name": "Birmingham",
+            "y": -1.7347,
+            "currency": "CZK",
+            "x": 52.4549
+        },
+        {
+            "id": 31500,
+            "iata": "VNO",
+            "price": 4369,
+            "name": "Vilnius",
+            "y": 25.2833,
+            "currency": "CZK",
+            "x": 54.6333
+        },
+        {
+            "id": 29050,
+            "iata": "SEZ",
+            "price": 16478,
+            "name": "Mahé",
+            "y": 55.4666,
+            "currency": "CZK",
+            "x": -4.6666
+        },
+        {
+            "id": 23840,
+            "iata": "CHQ",
+            "price": 3274,
+            "name": "Chania",
+            "y": 24.15,
+            "currency": "CZK",
+            "x": 35.5333
+        },
+        {
+            "id": 24719,
+            "iata": "EZE",
+            "price": 18371,
+            "name": "Buenos Aires",
+            "y": -58.544,
+            "currency": "CZK",
+            "x": -34.8114
+        },
+        {
+            "id": 24549,
+            "iata": "EIN",
+            "price": 1220,
+            "name": "Eindhoven",
+            "y": 5.3867,
+            "currency": "CZK",
+            "x": 51.4414
+        },
+        {
+            "id": 25404,
+            "iata": "HKG",
+            "price": 13425,
+            "name": "Hong Kong",
+            "y": 113.9359,
+            "currency": "CZK",
+            "x": 22.302
+        },
+        {
+            "id": 31751,
+            "iata": "SGN",
+            "price": 11962,
+            "name": "Ho Či Minovo Město",
+            "y": 106.6647,
+            "currency": "CZK",
+            "x": 10.8189
+        },
+        {
+            "id": 32017,
+            "iata": "GYD",
+            "price": 9022,
+            "name": "Baku",
+            "y": 49.9834,
+            "currency": "CZK",
+            "x": 40.5
+        },
+        {
+            "id": 38446,
+            "iata": "VOL",
+            "price": 5387,
+            "name": "Volos",
+            "y": 22.8334,
+            "currency": "CZK",
+            "x": 39.3333
+        },
+        {
+            "id": 25408,
+            "iata": "HKT",
+            "price": 15419,
+            "name": "Phuket",
+            "y": 98.3097,
+            "currency": "CZK",
+            "x": 8.1114
+        },
+        {
+            "id": 23286,
+            "iata": "BIO",
+            "price": 4350,
+            "name": "Bilbao",
+            "y": -2.9083,
+            "currency": "CZK",
+            "x": 43.3014
+        },
+        {
+            "id": 29466,
+            "iata": "SVO",
+            "price": 4090,
+            "name": "Moskva",
+            "y": 37.4166,
+            "currency": "CZK",
+            "x": 55.9666
+        },
+        {
+            "id": 32020,
+            "iata": "TFS",
+            "price": 7868,
+            "name": "Tenerife",
+            "y": -16.5733,
+            "currency": "CZK",
+            "x": 28.0479
+        },
+        {
+            "id": 31958,
+            "iata": "CNX",
+            "price": 13226,
+            "name": "Chiang Mai",
+            "y": 98.9597,
+            "currency": "CZK",
+            "x": 18.7731
+        },
+        {
+            "id": 29620,
+            "iata": "TBS",
+            "price": 5442,
+            "name": "Tbilisi",
+            "y": 44.9547,
+            "currency": "CZK",
+            "x": 41.6692
+        },
+        {
+            "id": 26729,
+            "iata": "LPA",
+            "price": 8709,
+            "name": "Las Palmas",
+            "y": -15.3844,
+            "currency": "CZK",
+            "x": 27.933
+        },
+        {
+            "id": 28382,
+            "iata": "PNH",
+            "price": 13216,
+            "name": "Phnom Penh",
+            "y": 104.8478,
+            "currency": "CZK",
+            "x": 11.5461
+        },
+        {
+            "id": 29323,
+            "iata": "SPU",
+            "price": 4289,
+            "name": "Split",
+            "y": 16.4333,
+            "currency": "CZK",
+            "x": 43.5167
+        },
+        {
+            "id": 24220,
+            "iata": "DAR",
+            "price": 16826,
+            "name": "Dar Es Salaam",
+            "y": 39.2033,
+            "currency": "CZK",
+            "x": -6.8783
+        },
+        {
+            "id": 24414,
+            "iata": "DRS",
+            "price": 6068,
+            "name": "Drážďany",
+            "y": 13.7675,
+            "currency": "CZK",
+            "x": 51.1254
+        },
+        {
+            "id": 23327,
+            "iata": "BKK",
+            "price": 10663,
+            "name": "Bangkok",
+            "y": 100.7488,
+            "currency": "CZK",
+            "x": 13.6858
+        },
+        {
+            "id": 31313,
+            "iata": "ZTH",
+            "price": 5171,
+            "name": "Zakynthos",
+            "y": 20.8843,
+            "currency": "CZK",
+            "x": 37.7509
+        },
+        {
+            "id": 25307,
+            "iata": "HAV",
+            "price": 16719,
+            "name": "Havana",
+            "y": -82.4004,
+            "currency": "CZK",
+            "x": 22.9833
+        },
+        {
+            "id": 29594,
+            "iata": "TAS",
+            "price": 11452,
+            "name": "Taškent",
+            "y": 69.3666,
+            "currency": "CZK",
+            "x": 41.2666
+        },
+        {
+            "id": 31750,
+            "iata": "HAN",
+            "price": 12633,
+            "name": "Hanoj",
+            "y": 105.89,
+            "currency": "CZK",
+            "x": 21.0358
+        },
+        {
+            "id": 31602,
+            "iata": "IEV",
+            "price": 6330,
+            "name": "Kyjev",
+            "y": 30.4508,
+            "currency": "CZK",
+            "x": 50.4019
+        },
+        {
+            "id": 24014,
+            "iata": "CPH",
+            "price": 3410,
+            "name": "Kodaň",
+            "y": 12.66,
+            "currency": "CZK",
+            "x": 55.6291
+        },
+        {
+            "id": 22779,
+            "iata": "AKL",
+            "price": 23317,
+            "name": "Auckland",
+            "y": 174.7833,
+            "currency": "CZK",
+            "x": -37.0067
+        },
+        {
+            "id": 25863,
+            "iata": "JFK",
+            "price": 10670,
+            "name": "New York",
+            "y": -73.7794,
+            "currency": "CZK",
+            "x": 40.6476
+        },
+        {
+            "id": 31517,
+            "iata": "FNC",
+            "price": 7618,
+            "name": "Funchal",
+            "y": -16.7731,
+            "currency": "CZK",
+            "x": 32.6897
+        },
+        {
+            "id": 23931,
+            "iata": "CMB",
+            "price": 11921,
+            "name": "Colombo",
+            "y": 79.8833,
+            "currency": "CZK",
+            "x": 7.1666
+        },
+        {
+            "id": 27944,
+            "iata": "OLB",
+            "price": 4824,
+            "name": "Olbia",
+            "y": 9.5214,
+            "currency": "CZK",
+            "x": 40.8964
+        },
+        {
+            "id": 22792,
+            "iata": "ALA",
+            "price": 8886,
+            "name": "Almaty",
+            "y": 77.0333,
+            "currency": "CZK",
+            "x": 43.35
+        },
+        {
+            "id": 31718,
+            "iata": "VRA",
+            "price": 16786,
+            "name": "Varadero",
+            "y": -81.2667,
+            "currency": "CZK",
+            "x": 23.15
+        },
+        {
+            "id": 26738,
+            "iata": "LPL",
+            "price": 4896,
+            "name": "Liverpool",
+            "y": -2.8608,
+            "currency": "CZK",
+            "x": 53.3333
+        },
+        {
+            "id": 29937,
+            "iata": "TSE",
+            "price": 8533,
+            "name": "Astana",
+            "y": 71.4669,
+            "currency": "CZK",
+            "x": 51.0222
+        },
+        {
+            "id": 38315,
+            "iata": "TSF",
+            "price": 2776,
+            "name": "Benátky (Treviso)",
+            "y": 12.0833,
+            "currency": "CZK",
+            "x": 45.6833
+        },
+        {
+            "id": 27394,
+            "iata": "MUC",
+            "price": 2709,
+            "name": "Mnichov",
+            "y": 11.7875,
+            "currency": "CZK",
+            "x": 48.3547
+        },
+        {
+            "id": 23943,
+            "iata": "CMN",
+            "price": 7989,
+            "name": "Casablanca",
+            "y": -7.5814,
+            "currency": "CZK",
+            "x": 33.3775
+        },
+        {
+            "id": 27008,
+            "iata": "MEL",
+            "price": 21629,
+            "name": "Melbourne",
+            "y": 144.8462,
+            "currency": "CZK",
+            "x": -37.6707
+        },
+        {
+            "id": 26476,
+            "iata": "LAS",
+            "price": 11749,
+            "name": "Las Vegas",
+            "y": -115.1506,
+            "currency": "CZK",
+            "x": 36.0847
+        },
+        {
+            "id": 24449,
+            "iata": "DUR",
+            "price": 18235,
+            "name": "Durban",
+            "y": 31.1163,
+            "currency": "CZK",
+            "x": -29.6144
+        },
+        {
+            "id": 31301,
+            "iata": "ZRH",
+            "price": 2682,
+            "name": "Curych",
+            "y": 8.5583,
+            "currency": "CZK",
+            "x": 47.4583
+        },
+        {
+            "id": 23394,
+            "iata": "BNE",
+            "price": 21628,
+            "name": "Brisbane",
+            "y": 153.1176,
+            "currency": "CZK",
+            "x": -27.3825
+        },
+        {
+            "id": 24450,
+            "iata": "DUS",
+            "price": 4175,
+            "name": "Dusseldorf",
+            "y": 6.7653,
+            "currency": "CZK",
+            "x": 51.2802
+        },
+        {
+            "id": 31561,
+            "iata": "RHO",
+            "price": 3793,
+            "name": "Rhodos",
+            "y": 28.0867,
+            "currency": "CZK",
+            "x": 36.4031
+        },
+        {
+            "id": 29893,
+            "iata": "TPE",
+            "price": 18615,
+            "name": "Taipei",
+            "y": 121.2214,
+            "currency": "CZK",
+            "x": 25.0783
+        },
+        {
+            "id": 26481,
+            "iata": "LAX",
+            "price": 9881,
+            "name": "Los Angeles",
+            "y": -118.4033,
+            "currency": "CZK",
+            "x": 33.9436
+        },
+        {
+            "id": 27571,
+            "iata": "NBO",
+            "price": 13213,
+            "name": "Nairobi",
+            "y": 36.9333,
+            "currency": "CZK",
+            "x": -1.3166
+        },
+        {
+            "id": 25766,
+            "iata": "IST",
+            "price": 3864,
+            "name": "Istanbul",
+            "y": 28.8064,
+            "currency": "CZK",
+            "x": 40.9681
+        },
+        {
+            "id": 31488,
+            "iata": "PSA",
+            "price": 5384,
+            "name": "Pisa",
+            "y": 10.3987,
+            "currency": "CZK",
+            "x": 43.6959
+        },
+        {
+            "id": 22835,
+            "iata": "AMS",
+            "price": 2799,
+            "name": "Amsterdam",
+            "y": 4.7649,
+            "currency": "CZK",
+            "x": 52.3106
+        },
+        {
+            "id": 24259,
+            "iata": "DEL",
+            "price": 11088,
+            "name": "Dillí",
+            "y": 77.1166,
+            "currency": "CZK",
+            "x": 28.5666
+        },
+        {
+            "id": 24261,
+            "iata": "DEN",
+            "price": 11266,
+            "name": "Denver",
+            "y": -104.6731,
+            "currency": "CZK",
+            "x": 39.8494
+        },
+        {
+            "id": 29206,
+            "iata": "SLC",
+            "price": 11457,
+            "name": "Salt Lake City",
+            "y": -111.9792,
+            "currency": "CZK",
+            "x": 40.7858
+        },
+        {
+            "id": 29891,
+            "iata": "TPA",
+            "price": 19430,
+            "name": "Tampa",
+            "y": -82.535,
+            "currency": "CZK",
+            "x": 27.9797
+        },
+        {
+            "id": 22829,
+            "iata": "AMM",
+            "price": 7671,
+            "name": "Amman",
+            "y": 35.9786,
+            "currency": "CZK",
+            "x": 31.7178
+        },
+        {
+            "id": 24380,
+            "iata": "DOH",
+            "price": 11192,
+            "name": "Doha",
+            "y": 51.5664,
+            "currency": "CZK",
+            "x": 25.2569
+        },
+        {
+            "id": 23420,
+            "iata": "BOG",
+            "price": 19118,
+            "name": "Bogota",
+            "y": -74.15,
+            "currency": "CZK",
+            "x": 4.7
+        },
+        {
+            "id": 28458,
+            "iata": "PRG",
+            "price": 1663,
+            "name": "Praha",
+            "y": 14.2612,
+            "currency": "CZK",
+            "x": 50.1094
+        },
+        {
+            "id": 26002,
+            "iata": "KBP",
+            "price": 6351,
+            "name": "Kyjev",
+            "y": 30.9166,
+            "currency": "CZK",
+            "x": 50.35
+        },
+        {
+            "id": 29215,
+            "iata": "SLL",
+            "price": 14541,
+            "name": "Salalah",
+            "y": 54.1017,
+            "currency": "CZK",
+            "x": 17.0363
+        },
+        {
+            "id": 27356,
+            "iata": "MSQ",
+            "price": 5989,
+            "name": "Minsk",
+            "y": 28.0307,
+            "currency": "CZK",
+            "x": 53.8825
+        },
+        {
+            "id": 31384,
+            "iata": "ANC",
+            "price": 12713,
+            "name": "Anchorage",
+            "y": -149.979,
+            "currency": "CZK",
+            "x": 61.1738
+        },
+        {
+            "id": 28012,
+            "iata": "ORD",
+            "price": 12084,
+            "name": "Chicago",
+            "y": -87.9034,
+            "currency": "CZK",
+            "x": 41.9761
+        },
+        {
+            "id": 23679,
+            "iata": "CAN",
+            "price": 13817,
+            "name": "Guangzhou / Canton",
+            "y": 113.3023,
+            "currency": "CZK",
+            "x": 23.3829
+        },
+        {
+            "id": 31130,
+            "iata": "YUL",
+            "price": 15188,
+            "name": "Montreal",
+            "y": -73.75,
+            "currency": "CZK",
+            "x": 45.4583
+        },
+        {
+            "id": 27335,
+            "iata": "MRU",
+            "price": 19654,
+            "name": "Mauricius",
+            "y": 57.6666,
+            "currency": "CZK",
+            "x": -20.4333
+        },
+        {
+            "id": 31604,
+            "iata": "HNL",
+            "price": 11736,
+            "name": "Honolulu",
+            "y": -157.9225,
+            "currency": "CZK",
+            "x": 21.3358
+        },
+        {
+            "id": 25351,
+            "iata": "HER",
+            "price": 1932,
+            "name": "Heraklion (Kréta)",
+            "y": 25.1848,
+            "currency": "CZK",
+            "x": 35.3408
+        },
+        {
+            "id": 23426,
+            "iata": "BOM",
+            "price": 12039,
+            "name": "Bombaj",
+            "y": 72.8683,
+            "currency": "CZK",
+            "x": 19.0883
+        },
+        {
+            "id": 26966,
+            "iata": "MCT",
+            "price": 12071,
+            "name": "Muscat",
+            "y": 58.5333,
+            "currency": "CZK",
+            "x": 23.6333
+        },
+        {
+            "id": 27578,
+            "iata": "NCE",
+            "price": 2685,
+            "name": "Nice",
+            "y": 7.2129,
+            "currency": "CZK",
+            "x": 43.6645
+        },
+        {
+            "id": 25584,
+            "iata": "IAD",
+            "price": 12303,
+            "name": "Washington",
+            "y": -77.4541,
+            "currency": "CZK",
+            "x": 38.9538
+        },
+        {
+            "id": 31520,
+            "iata": "KRK",
+            "price": 2601,
+            "name": "Krakov",
+            "y": 19.778,
+            "currency": "CZK",
+            "x": 50.0502
+        },
+        {
+            "id": 27764,
+            "iata": "NRT",
+            "price": 12764,
+            "name": "Tokio",
+            "y": 140.39,
+            "currency": "CZK",
+            "x": 35.7583
+        },
+        {
+            "id": 23432,
+            "iata": "BOS",
+            "price": 10450,
+            "name": "Boston",
+            "y": -71.0189,
+            "currency": "CZK",
+            "x": 42.3679
+        },
+        {
+            "id": 26323,
+            "iata": "KSC",
+            "price": 4675,
+            "name": "Košice",
+            "y": 21.2411,
+            "currency": "CZK",
+            "x": 48.6631
+        },
+        {
+            "id": 24758,
+            "iata": "FDF",
+            "price": 14096,
+            "name": "Fort De France",
+            "y": -61,
+            "currency": "CZK",
+            "x": 14.5833
+        },
+        {
+            "id": 28044,
+            "iata": "OSR",
+            "price": 1584,
+            "name": "Ostrava",
+            "y": 18.1108,
+            "currency": "CZK",
+            "x": 49.6961
+        },
+        {
+            "id": 25586,
+            "iata": "IAH",
+            "price": 14087,
+            "name": "Houston",
+            "y": -95.3458,
+            "currency": "CZK",
+            "x": 29.9867
+        },
+        {
+            "id": 25348,
+            "iata": "HEL",
+            "price": 4280,
+            "name": "Helsinky",
+            "y": 24.9694,
+            "currency": "CZK",
+            "x": 60.3181
+        },
+        {
+            "id": 25186,
+            "iata": "GRU",
+            "price": 15729,
+            "name": "Sao Paulo",
+            "y": -46.4733,
+            "currency": "CZK",
+            "x": -23.435
+        },
+        {
+            "id": 31413,
+            "iata": "PEK",
+            "price": 10977,
+            "name": "Peking",
+            "y": 116.603112,
+            "currency": "CZK",
+            "x": 40.079857
+        },
+        {
+            "id": 24023,
+            "iata": "CPT",
+            "price": 18635,
+            "name": "Kapské Město",
+            "y": 18.6017,
+            "currency": "CZK",
+            "x": -33.9666
+        },
+        {
+            "id": 28521,
+            "iata": "PTY",
+            "price": 12778,
+            "name": "Panama City",
+            "y": -79.3836,
+            "currency": "CZK",
+            "x": 9.0714
+        },
+        {
+            "id": 28215,
+            "iata": "PER",
+            "price": 21070,
+            "name": "Perth",
+            "y": 115.9594,
+            "currency": "CZK",
+            "x": -31.9348
+        },
+        {
+            "id": 24872,
+            "iata": "FRA",
+            "price": 4958,
+            "name": "Frankfurt",
+            "y": 8.5743,
+            "currency": "CZK",
+            "x": 50.0493
+        },
+        {
+            "id": 31598,
+            "iata": "FCO",
+            "price": 2523,
+            "name": "Řím",
+            "y": 12.2533,
+            "currency": "CZK",
+            "x": 41.8117
+        },
+        {
+            "id": 30304,
+            "iata": "VIE",
+            "price": 2117,
+            "name": "Vídeň",
+            "y": 16.5622,
+            "currency": "CZK",
+            "x": 48.1208
+        },
+        {
+            "id": 24398,
+            "iata": "DPS",
+            "price": 13058,
+            "name": "Denpasar Bali",
+            "y": 115.1644,
+            "currency": "CZK",
+            "x": -8.7448
+        },
+        {
+            "id": 28005,
+            "iata": "OPO",
+            "price": 4642,
+            "name": "Porto",
+            "y": -8.6748,
+            "currency": "CZK",
+            "x": 41.2397
+        },
+        {
+            "id": 38692,
+            "iata": "HRI",
+            "price": 12714,
+            "name": "Mattala, Hambantota",
+            "y": 81.120905,
+            "currency": "CZK",
+            "x": 6.29192
+        },
+        {
+            "id": 29580,
+            "iata": "TAE",
+            "price": 12696,
+            "name": "Daegu",
+            "y": 128.6589,
+            "currency": "CZK",
+            "x": 35.8942
+        },
+        {
+            "id": 26900,
+            "iata": "MAD",
+            "price": 4552,
+            "name": "Madrid",
+            "y": -3.5687,
+            "currency": "CZK",
+            "x": 40.4651
+        },
+        {
+            "id": 25598,
+            "iata": "IBZ",
+            "price": 3911,
+            "name": "Ibiza",
+            "y": 1.3714,
+            "currency": "CZK",
+            "x": 38.8731
+        },
+        {
+            "id": 38221,
+            "iata": "LTN",
+            "price": 1468,
+            "name": "Londýn",
+            "y": -0.3681,
+            "currency": "CZK",
+            "x": 51.8731
+        },
+        {
+            "id": 31539,
+            "iata": "LED",
+            "price": 6153,
+            "name": "Petrohrad",
+            "y": 30.2728,
+            "currency": "CZK",
+            "x": 59.7903
+        },
+        {
+            "id": 28892,
+            "iata": "RUH",
+            "price": 21173,
+            "name": "Rijád",
+            "y": 46.7281,
+            "currency": "CZK",
+            "x": 24.944
+        },
+        {
+            "id": 28189,
+            "iata": "PDL",
+            "price": 6825,
+            "name": "Ponta Delgada",
+            "y": -25.6995,
+            "currency": "CZK",
+            "x": 37.7442
+        },
+        {
+            "id": 23476,
+            "iata": "BRI",
+            "price": 6674,
+            "name": "Bari",
+            "y": 16.7533,
+            "currency": "CZK",
+            "x": 41.1442
+        },
+        {
+            "id": 28532,
+            "iata": "PUJ",
+            "price": 17894,
+            "name": "Punta Cana",
+            "y": -68.3833,
+            "currency": "CZK",
+            "x": 18.5667
+        },
+        {
+            "id": 24489,
+            "iata": "EBB",
+            "price": 16675,
+            "name": "Entebbe",
+            "y": 32.45,
+            "currency": "CZK",
+            "x": 0.05
+        },
+        {
+            "id": 25603,
+            "iata": "ICN",
+            "price": 10996,
+            "name": "Soul",
+            "y": 126.4718,
+            "currency": "CZK",
+            "x": 37.4801
+        },
+        {
+            "id": 38574,
+            "iata": "CRL",
+            "price": 1663,
+            "name": "Brusel",
+            "y": 4.5564,
+            "currency": "CZK",
+            "x": 50.49
+        },
+        {
+            "id": 31145,
+            "iata": "YVR",
+            "price": 12234,
+            "name": "Vancouver",
+            "y": -123.175,
+            "currency": "CZK",
+            "x": 49.1917
+        },
+        {
+            "id": 24236,
+            "iata": "DBV",
+            "price": 4287,
+            "name": "Dubrovnik",
+            "y": 18.2681,
+            "currency": "CZK",
+            "x": 42.5617
+        }
+    ]
+}

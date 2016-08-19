@@ -18,17 +18,20 @@
   <script src="app/dist/main.js"></script>
   <script type="text/javascript">
     var opts = {
-      mapOpts: {
-        id: 'map',
-        zoom: 5,
-        minZoom: 3,
-        maxZoom: 10,
-        center: [50.0598053, 14.3251985]
-      },
+      targetId: 'map',
       displayMaps: [
         {
           name: 'action-airtickets',
+          controlLabel: 'Mapa akčních letenek',
+          url: 'app/src/js/displayMaps/action-airtickets/index.js',
           state: 'active',
+          opts: {
+            id: 'map',
+            zoom: 5,
+            minZoom: 3,
+            maxZoom: 10,
+            center: [50.0598053, 14.3251985]
+          },
           layers: [
             {
               name: 'cities',
@@ -43,12 +46,27 @@
               zoom: '4-3'
             }
           ]
+        },
+        {
+          name: 'bustickets-map',
+          controlLabel: 'Mapa jízdenek',
+          state: 'not-active'
         }
       ],
       mapId: 'map',
       dataURL: 'app/data/data.json',
       tiles: 'https://api.mapbox.com/styles/v1/mapbox/light-v9/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoiZXhvc2xhdiIsImEiOiJjaXJ1bXNuYjIwMGY0aGttMXE5d2RlZGhwIn0.ZsqAvpO678QGVFAc6VMR2A',
-      accessToken: 'pk.eyJ1IjoiZXhvc2xhdiIsImEiOiJjaXJ1bXNuYjIwMGY0aGttMXE5d2RlZGhwIn0.ZsqAvpO678QGVFAc6VMR2A'
+      accessToken: 'pk.eyJ1IjoiZXhvc2xhdiIsImEiOiJjaXJ1bXNuYjIwMGY0aGttMXE5d2RlZGhwIn0.ZsqAvpO678QGVFAc6VMR2A',
+      customFunctions: {
+        preInitFunctions: {
+          showSomeText: function() {console.log('show some text pre init function')},
+          showSomeOtherText: function() {console.log('show some other text pre init function')}
+        },
+        postInitFunctions: {
+          showSomeText: function() {console.log('show some text post init function')},
+          showSomeOtherText: function() {console.log('show some other text post init function')}
+        }
+      }
     }
     window.createMap(opts)
   </script>
