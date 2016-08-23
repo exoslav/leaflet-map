@@ -4,26 +4,10 @@ import { errors, printError } from '../utils/errors'
 export let loadMap = activeMap => {
   switch (activeMap.name) {
     case 'action-airtickets':
-        require.ensure([], function(require) {
-          require('../displayMaps/action-airtickets/index.js') // jaky soubor si vyzadujeme
-        },
-        'action-airtickets') // nazev chunku
-      break;
-    default:
+      require.ensure([], function(require, path) {
+        require('../displayMaps/action-airtickets/index.js') // jaky soubor si vyzadujeme
+      },
+      'action-airtickets') // nazev chunku
+    break
   }
-
-
-  // console.log(activeMap.url)
-  //   $.ajax({
-  //     cache: true,
-  //     url: activeMap.url,
-  //     dataType: "script"
-  //   })
-  //   .done(data => {
-  //     console.log(data)
-  //     data.showText()
-  //   })
-  //   .fail(err => {
-  //     printError(errors, 'CRITICAL', 'cannotLoadAJAXData')
-  //   })
 }

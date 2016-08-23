@@ -1,6 +1,7 @@
 import { errors, printError } from '../utils/errors'
 
 export let mapState = {
+  opts: {},
   totalMaps: 0,
   activeMap: {},
   displayMaps: [],
@@ -13,6 +14,9 @@ export let setInitialMapState = opts => {
     mapState.totalMaps = opts.displayMaps.length
   else
     printError(errors, 'CRITICAL', 'missingDisplayMaps')
+
+  // pridani opts pro globalni pristup
+  mapState.opts = opts
 
   // pridani map
   mapState.displayMaps = opts.displayMaps
